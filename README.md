@@ -59,7 +59,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/stma1995/stma1995/output/snake.svg" alt="Snake animation" />
-
-###
